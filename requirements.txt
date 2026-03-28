@@ -1,0 +1,17 @@
+# Bybit P2P Bot LATAM - Dependencias Python
+# Instalar con: pip install -r requirements.txt
+
+# HTTP requests
+requests==2.31.0
+
+# Variables de entorno
+python-dotenv==1.0.0
+
+# Programacion de tareas
+schedule==1.2.1
+
+# Utilidades de fecha/hora con zona horaria
+pytz==2024.1
+
+# Mejoras opcionales
+urllib3==2.1.0
